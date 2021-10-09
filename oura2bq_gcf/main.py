@@ -41,6 +41,7 @@ def fetch_and_update_oura(access_token):
 # Cloud Function用
 def main(_):
     fetch_and_update_oura(fetch_oura_token())
+    return ''
 
 
 # ローカル実行用
