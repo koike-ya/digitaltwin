@@ -1,0 +1,6 @@
+jupyter
+pandas
+numpy
+requests
+tqdm
+google-cloud-secret-manager
