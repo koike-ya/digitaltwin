@@ -4,3 +4,5 @@ numpy
 requests
 tqdm
 google-cloud-secret-manager
+oura
+google-cloud-bigquery
